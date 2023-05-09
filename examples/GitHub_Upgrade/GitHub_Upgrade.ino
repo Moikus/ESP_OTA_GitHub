@@ -26,6 +26,8 @@
 #include <ArduinoOTA.h>
 //#include "ESP_OTA_GitHub.h"
 
+//Kommentar
+
 #include <Wire.h>
 
 //general settings:
